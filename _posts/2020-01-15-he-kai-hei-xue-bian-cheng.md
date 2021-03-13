@@ -15,7 +15,7 @@ image: "assets/images/201.jpg"
 
 ### 强棒少女海来阿呷就是其中之一 (ノ◕ヮ◕)ノ*:・ﾟ✧  
 
-![baseball diamond](https://tva1.sinaimg.cn/large/008eGmZEly1goinse6h75j30dw09175h.jpg)
+![t11]({{ site.baseurl }}/assets/images/t11.jpg)
 
 #### References
 资料来源: 跳跳糖公益
