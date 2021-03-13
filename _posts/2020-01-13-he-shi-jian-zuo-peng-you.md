@@ -19,6 +19,7 @@ image: "assets/images/300.jpg"
 
 ### 关于我
 
+> 
 > **Q：平时的兴趣爱好有哪些？**
 > 
 >就喜欢打棒球，跳皮筋也不错～
@@ -72,4 +73,4 @@ image: "assets/images/300.jpg"
 
 #### References
  
-资料来源: 跳跳糖公益
+> 资料来源: 跳跳糖公益
