@@ -15,7 +15,7 @@ image: "assets/images/201.jpg"
 
 ### 强棒少女海来阿呷就是其中之一 (ノ◕ヮ◕)ノ*:・ﾟ✧  
 
-![936]({{ site.baseurl }}/assets/images/936.jpg)
+![202]({{ site.baseurl }}/assets/images/202.jpg)
 
 #### References
 资料来源: 跳跳糖公益
