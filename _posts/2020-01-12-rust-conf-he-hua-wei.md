@@ -8,7 +8,7 @@ image: "assets/images/400.jpg"
 
 ## 起源
 
-<font face="微软雅黑" color=green size=3>1839年，西点军校一个顽皮的学生**达伯岱（Abner Doubleday）**在上历史课时，为了避免打瞌睡，在历史课本背后的空白部分，划下了现代棒球的初步扇型球场规格，也点燃了现代棒球的火苗。</font> 
+<font face="微软雅黑" color=green size=3>1839年，西点军校一个顽皮的学生达伯岱（Abner Doubleday）在上历史课时，为了避免打瞌睡，在历史课本背后的空白部分，划下了现代棒球的初步扇型球场规格，也点燃了现代棒球的火苗。</font> 
 
 *****
 
