@@ -30,7 +30,7 @@ image: "assets/images/201.jpg"
 
 [<font face="微软雅黑" color=red size=3>点击这里观看《棒！少年》</font>](https://www.baidu.com/link?url=uQ9arzoUibliwnr97SCPWYdS620Ct38qXjbuCkfZugFI_W448yp_jgMvzntEV4DGADfhQkiYxtWhwBSE5vezjUlzbWuTem0YLs_iXlCjT78QCugt_4UuPzGTK-c7kXiI&wd=&eqid=af01efab0006ecdb00000003604dbd22)
 
-[<font face="微软雅黑" color=red size=3>点击这里关注强棒基地公众号</font>](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI3OTU4MjU1Mw==&scene=124#wechat_redirect)
+[<font face="微软雅黑" color=red size=3>点击这里关注强棒基地微博</font>](https://weibo.com/PBangels?topnav=1&wvr=6&topsug=1)
 
 ******
 
