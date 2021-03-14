@@ -10,6 +10,8 @@ image: "assets/images/400.jpg"
 
 * <font face="微软雅黑" color=green size=3>1839年，西点军校一个顽皮的学生达伯岱（Abner Doubleday）在上历史课时，为了避免打瞌睡，在历史课本背后的空白部分，划下了现代棒球的初步扇型球场规格，也点燃了现代棒球的火苗。</font> 
 
+<img style="width:500px;height:333px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1gojg67y558j20i20c1mxs.jpg" alt="海来阿呷" aligh=center />
+
 *****
 
 ## 发展历史
@@ -25,7 +27,6 @@ image: "assets/images/400.jpg"
 *****
 
 ## 棒球常识
-
 
   
 * <font face="微软雅黑" color=green size=3>1)世界性业余棒球运动管理机构的名称：国际棒联是世界业余棒球管理机构。IBA是国际棒球联合会的简称。</font>
@@ -46,6 +47,8 @@ image: "assets/images/400.jpg"
 
 * <font face="微软雅黑" color=green size=3>9)棒球比赛有哪些防守位置：棒球防守位置有投手，接手，一垒手，二垒手，三垒手，游击手，左外场员，中外场员，右外场员。</font>
 
+<img style="width:500px;height:613px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1gojg6u5y4dj20ku0pk40b.jpg" alt="海来阿呷" aligh=center />
+
 * <font face="微软雅黑" color=green size=3>棒球运动的历史悠久。在古希腊和古印度的神庙浮雕、碑石上，都有用木棒打球的图案。我国古代也有用长棒打短棒的游戏。这些都是棒球运动的雏形。现代棒球运动迄今已有150多年的历史。</font>
 
 * <font face="微软雅黑" color=green size=3>1839年美国纽约州古帕斯敦进行了有史以来的首次棒球比赛。1845年美国的“棒球之父”亚历山大·卡特赖组织了棒球队并制订了第一部棒球规则，规定了至今仍沿用的场地图形和尺寸。</font>
@@ -60,6 +63,7 @@ image: "assets/images/400.jpg"
 
 * [<font face="微软雅黑" color=grey size=3>百度百科</font>](https://baike.baidu.com/item/%E6%A3%92%E7%90%83%E5%8F%91%E5%B1%95%E5%8F%B2/13020240?fr=aladdin)
 * [<font face="微软雅黑" color=grey size=3>棒球为何是美国国球？带你了解美国棒球文化</font>](https://www.sohu.com/a/241513072_495652)
+* [<font face="微软雅黑" color=grey size=3>pinterest</font>
 
 
 
