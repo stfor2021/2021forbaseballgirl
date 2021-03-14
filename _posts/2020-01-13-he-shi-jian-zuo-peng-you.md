@@ -12,47 +12,47 @@ image: "assets/images/300.jpg"
 > 我是**海来阿呷**，出生于2010.8.12，我是2019年12月加入强棒基地的，我的老家在[**四川凉山州**](https://baike.baidu.com/item/%E5%87%89%E5%B1%B1%E5%BD%9D%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/2721144?fromtitle=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E5%B7%9E&fromid=50086249&fr=aladdin)，我是彝族，我总是眯着眼睛笑，干活麻利，平时很细心的关注队员需求，认真帮助他人。
 >   
 > 
-> <img style="width:720px;height:480px" src="https://tva1.sinaimg.cn/large/008eGmZEly1goio2ejnt2j30k00dc4qp.jpg" alt="海来阿呷" aligh=center />
+> <img style="width:720px;height:333px" src="https://tva1.sinaimg.cn/large/008eGmZEly1goio2ejnt2j30k00dc4qp.jpg" alt="海来阿呷" aligh=center />
 > 
 > 
 *****
 
 ### 关于我
 
-> 
-> **Q：平时的兴趣爱好有哪些？**
+ 
+<font face="黑体" color=blue size=3>Q：平时的兴趣爱好有哪些？</font>
 > 
 >就喜欢打棒球，跳皮筋也不错～
 >
-> **Q：什么时候开始学习棒球的？**
+<font face="黑体" color=blue size=3>Q：什么时候开始学习棒球的？</font>
 > 
 >2019年12月
 >
-> **Q：每天的棒球训练时长是多久？**
+<font face="黑体" color=blue size=3>Q：每天的棒球训练时长是多久？</font>
 > 
 >一次训练1～2小时
 >
-> **Q：在棒球基地的一天是如何度过的，每天做喜欢做的事情？**
+<font face="黑体" color=blue size=3>Q：在棒球基地的一天是如何度过的，每天做喜欢做的事情？</font>
 > 
 >训练，游戏，看电视，画画……
 >
-> **Q：棒球学习过程中遇到过什么困难或问题？是如何克服这些问题的？**
+<font face="黑体" color=blue size=3>Q：棒球学习过程中遇到过什么困难或问题？是如何克服这些问题的？</font>
 > 
 >也会受伤，会被棒球砸到，但是因为喜欢一直坚持
 >
->**Q：棒球比赛中获得的荣誉，印象最深刻的瞬间？**
+<font face="黑体" color=blue size=3>Q：棒球比赛中获得的荣誉，印象最深刻的瞬间？</font>
 >
 >还没有正式的比赛，赢了就很高兴
 >
->**Q：棒球学习或比赛遇到的挫折及问题，是如何克服它们的？**
+<font face="黑体" color=blue size=3>Q：棒球学习或比赛遇到的挫折及问题，是如何克服它们的？</font>
 >
 >坚持
 >
->**Q：你的愿望是什么？**
+<font face="黑体" color=blue size=3>Q：你的愿望是什么？</font>
 >
 >成为一名棒球选手
 >
->**Q：如果没有棒球，你觉得你的人生是什么样子**
+<font face="黑体" color=blue size=3>Q：如果没有棒球，你觉得你的人生是什么样子</font>
 >
 >不高兴
 >
@@ -61,7 +61,8 @@ image: "assets/images/300.jpg"
 
 ### 小狮子的故事
 
-> ![xiaoshizi](https://tva1.sinaimg.cn/large/008eGmZEly1goioatpcscj31400u0u0z.jpg)
+> <img style="width:720px;height:333px" src="https://tva1.sinaimg.cn/large/008eGmZEly1goioatpcscj31400u0u0z.jpg" alt="海来阿呷" aligh=center />
+> 
 >
 > ***来自神秘小姐姐记录的海来阿呷的小故事***
 > 
