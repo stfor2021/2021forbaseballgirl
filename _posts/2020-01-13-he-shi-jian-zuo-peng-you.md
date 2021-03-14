@@ -6,9 +6,9 @@ avatar: "assets/images/authors/logo.jpg"
 image: "assets/images/300.jpg"
 ---
 
-### 自我介绍
+#### 自我介绍
 
-***<font face="黑体" color=red size=5><b>很高兴认识你! </b></font >
+<font face="黑体" color=red size=5><b>很高兴认识你! </b></font >
 
 我是**海来阿呷**，出生于2010.8.12，我是2019年12月加入强棒基地的，我的老家在[**四川凉山州**](https://baike.baidu.com/item/%E5%87%89%E5%B1%B1%E5%BD%9D%E6%97%8F%E8%87%AA%E6%B2%BB%E5%B7%9E/2721144?fromtitle=%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E5%B7%9E&fromid=50086249&fr=aladdin)，我是彝族，我总是眯着眼睛笑，干活麻利，平时很细心的关注队员需求，认真帮助他人。
  
@@ -18,7 +18,7 @@ image: "assets/images/300.jpg"
 
 *****
 
-### 关于我
+#### 关于我的问答
 
 * <font face="黑体" color=green size=3>Q：平时的兴趣爱好有哪些？</font>
 
