@@ -15,8 +15,8 @@ image: "assets/images/201.jpg"
 
 > 海来阿呷就是其中之一 (ノ◕ヮ◕)ノ*:・ﾟ✧  
 
-> <img style="width:500px;height:374px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1gojgp6dcnzj20k00dcjye.jpg" alt="海来阿呷" aligh=center />
-> <img style="width:500px;height:374px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1gojgpplvakj20k00dc7wh.jpg" alt="海来阿呷" aligh=center />
+> <img style="width:500px;height:333px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1gojgp6dcnzj20k00dcjye.jpg" alt="海来阿呷" aligh=center />
+> <img style="width:500px;height:333px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1gojgpplvakj20k00dc7wh.jpg" alt="海来阿呷" aligh=center />
 
 ### 想了解更多……
 
