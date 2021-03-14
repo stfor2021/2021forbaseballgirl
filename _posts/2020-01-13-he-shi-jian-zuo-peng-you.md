@@ -20,23 +20,23 @@ image: "assets/images/300.jpg"
 
 ### 关于我
 
-<font face="黑体" color=green size=3>Q：平时的兴趣爱好有哪些？</font>
-
-<font face="黑体" size=3>就喜欢打棒球，跳皮筋也不错～</font>
-
-<font face="黑体" color=green size=3>Q：什么时候开始学习棒球的？</font>
-
-<font face="黑体" size=3>2019年12月</font>
-
-<font face="黑体" color=green size=3>Q：每天的棒球训练时长是多久？</font>
-
-<font face="黑体" size=3>一次训练1～2小时</font>
-
-<font face="黑体" color=green size=3>Q：在棒球基地的一天是如何度过的，每天做喜欢做的事情？</font>
-
-<font face="黑体" size=3>训练，游戏，看电视，画画……</font>
-
-<font face="黑体" color=green size=3>Q：棒球学习过程中遇到过什么困难或问题？是如何克服这些问题的？</font>
+> <font face="黑体" color=green size=3>Q：平时的兴趣爱好有哪些？</font>
+> 
+> <font face="黑体" size=3>就喜欢打棒球，跳皮筋也不错～</font>
+> 
+> <font face="黑体" color=green size=3>Q：什么时候开始学习棒球的？</font>
+> 
+> <font face="黑体" size=3>2019年12月</font>
+> 
+> <font face="黑体" color=green size=3>Q：每天的棒球训练时长是多久？</font>
+> 
+> <font face="黑体" size=3>一次训练1～2小时</font>
+> 
+> <font face="黑体" color=green size=3>Q：在棒球基地的一天是如何度过的，每天做喜欢做的事情？</font>
+> 
+> <font face="黑体" size=3>训练，游戏，看电视，画画……</font>
+> 
+> <font face="黑体" color=green size=3>Q：棒球学习过程中遇到过什么困难或问题？是如何克服这些问题的？</font>
 
 <font face="黑体" size=3>也会受伤，会被棒球砸到，但是因为喜欢一直坚持</font>
 
