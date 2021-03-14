@@ -13,11 +13,16 @@ image: "assets/images/201.jpg"
 * <font face="微软雅黑" color=grey size=3>通过基地的学习训练，她们重拾了信心也对未来建立目标，部分孩子通过努力训练走向了更大的舞台，获得了更多人的关注和认可。</font>
 
 
-### 强棒少女海来阿呷就是其中之一 (ノ◕ヮ◕)ノ*:・ﾟ✧  
+> 海来阿呷就是其中之一 (ノ◕ヮ◕)ノ*:・ﾟ✧  
 
 > <img style="width:500px;height:374px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1gojgp6dcnzj20k00dcjye.jpg" alt="海来阿呷" aligh=center />
 > <img style="width:500px;height:374px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1gojgpplvakj20k00dc7wh.jpg" alt="海来阿呷" aligh=center />
 
+### 想了解更多……
+
+<font face="微软雅黑" color=green size=3>这里有一部纪录片《棒！少年》，讲的就是强棒基地和孩子们的故事。</font>
+
+<embed src="//player.video.iqiyi.com/98867aebcad3707d9ebc15181e525d32/0/0/v_2devacrawbk.swf-albumId=8624586382682700-tvId=8624586382682700-isPurchase=0-cnId=undefined" allowFullScreen="true" quality="high" width="480" height="350" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
 ##### 资料来源:
 * <font face="微软雅黑" color=grey size=3> 跳跳糖公益 </font>
