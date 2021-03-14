@@ -13,6 +13,7 @@ image: "assets/images/300.jpg"
 >   
 > 
 > ![hailaiaxia](https://tva1.sinaimg.cn/large/008eGmZEly1goio2ejnt2j30k00dc4qp.jpg)
+> <img style="width:50px;height:50px" src="https://tva1.sinaimg.cn/large/008eGmZEly1goio2ejnt2j30k00dc4qp.jpg" alt="海来阿呷" aligh=center />
 > 
 > 
 *****
