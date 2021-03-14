@@ -10,7 +10,7 @@ image: "assets/images/400.jpg"
 
 * <font face="微软雅黑" color=green size=3>1839年，西点军校一个顽皮的学生达伯岱（Abner Doubleday）在上历史课时，为了避免打瞌睡，在历史课本背后的空白部分，划下了现代棒球的初步扇型球场规格，也点燃了现代棒球的火苗。</font> 
 
-<img style="width:500px;height:333px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1gojg67y558j20i20c1mxs.jpg" alt="海来阿呷" aligh=center />
+* <img style="width:500px;height:333px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1gojg67y558j20i20c1mxs.jpg" alt="海来阿呷" aligh=center />
 
 *****
 
@@ -47,7 +47,7 @@ image: "assets/images/400.jpg"
 
 * <font face="微软雅黑" color=green size=3>9)棒球比赛有哪些防守位置：棒球防守位置有投手，接手，一垒手，二垒手，三垒手，游击手，左外场员，中外场员，右外场员。</font>
 
-<img style="width:500px;height:613px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1gojg6u5y4dj20ku0pk40b.jpg" alt="海来阿呷" aligh=center />
+* <img style="width:500px;height:613px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1gojg6u5y4dj20ku0pk40b.jpg" alt="海来阿呷" aligh=center />
 
 * <font face="微软雅黑" color=green size=3>棒球运动的历史悠久。在古希腊和古印度的神庙浮雕、碑石上，都有用木棒打球的图案。我国古代也有用长棒打短棒的游戏。这些都是棒球运动的雏形。现代棒球运动迄今已有150多年的历史。</font>
 
