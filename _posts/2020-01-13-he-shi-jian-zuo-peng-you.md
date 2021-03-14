@@ -20,41 +20,41 @@ image: "assets/images/300.jpg"
 
 ### 关于我
 
-> <font face="黑体" color=green size=3>Q：平时的兴趣爱好有哪些？</font>
-> 
-> <font face="黑体" size=3>就喜欢打棒球，跳皮筋也不错～</font>
-> 
-> <font face="黑体" color=green size=3>Q：什么时候开始学习棒球的？</font>
-> 
-> <font face="黑体" size=3>2019年12月</font>
-> 
-> <font face="黑体" color=green size=3>Q：每天的棒球训练时长是多久？</font>
-> 
-> <font face="黑体" size=3>一次训练1～2小时</font>
-> 
-> <font face="黑体" color=green size=3>Q：在棒球基地的一天是如何度过的，每天做喜欢做的事情？</font>
-> 
-> <font face="黑体" size=3>训练，游戏，看电视，画画……</font>
-> 
-> <font face="黑体" color=green size=3>Q：棒球学习过程中遇到过什么困难或问题？是如何克服这些问题的？</font>
+* <font face="黑体" color=green size=3>Q：平时的兴趣爱好有哪些？</font>
 
-<font face="黑体" size=3>也会受伤，会被棒球砸到，但是因为喜欢一直坚持</font>
+  * <font face="黑体" size=3>就喜欢打棒球，跳皮筋也不错～</font>
 
-<font face="黑体" color=green size=3>Q：棒球比赛中获得的荣誉，印象最深刻的瞬间？</font>
+* <font face="黑体" color=green size=3>Q：什么时候开始学习棒球的？</font>
+ 
+  * <font face="黑体" size=3>2019年12月</font>
+ 
+* <font face="黑体" color=green size=3>Q：每天的棒球训练时长是多久？</font>
+ 
+  * <font face="黑体" size=3>一次训练1～2小时</font>
+ 
+* <font face="黑体" color=green size=3>Q：在棒球基地的一天是如何度过的，每天做喜欢做的事情？</font>
+ 
+  * <font face="黑体" size=3>训练，游戏，看电视，画画……</font>
+ 
+* <font face="黑体" color=green size=3>Q：棒球学习过程中遇到过什么困难或问题？是如何克服这些问题的？</font>
 
-<font face="黑体" size=3>还没有正式的比赛，赢了就很高兴</font>
+  * <font face="黑体" size=3>也会受伤，会被棒球砸到，但是因为喜欢一直坚持</font>
 
-<font face="黑体" color=green size=3>Q：棒球学习或比赛遇到的挫折及问题，是如何克服它们的？</font>
+* <font face="黑体" color=green size=3>Q：棒球比赛中获得的荣誉，印象最深刻的瞬间？</font>
 
-<font face="黑体" size=3>坚持</font>
+  * <font face="黑体" size=3>还没有正式的比赛，赢了就很高兴</font>
 
-<font face="黑体" color=green size=3>Q：你的愿望是什么？</font>
+* <font face="黑体" color=green size=3>Q：棒球学习或比赛遇到的挫折及问题，是如何克服它们的？</font>
 
-<font face="黑体" size=3>成为一名棒球选手</font>
+  * <font face="黑体" size=3>坚持</font>
 
-<font face="黑体" color=green size=3>Q：如果没有棒球，你觉得你的人生是什么样子</font>
+* <font face="黑体" color=green size=3>Q：你的愿望是什么？</font>
 
-<font face="黑体" size=3>不高兴</font>
+  * <font face="黑体" size=3>成为一名棒球选手</font>
+
+* <font face="黑体" color=green size=3>Q：如果没有棒球，你觉得你的人生是什么样子</font>
+
+  * <font face="黑体" size=3>不高兴</font>
 
 
 *****
@@ -63,7 +63,7 @@ image: "assets/images/300.jpg"
 
 <img style="width:500px;height:333px" src="https://tva1.sinaimg.cn/large/008eGmZEly1goioatpcscj31400u0u0z.jpg" alt="海来阿呷" aligh=center />
 
-***来自神秘小姐姐记录的海来阿呷的小故事***
+<font face="黑体" color=green size=3>来自神秘小姐姐记录的海来阿呷的小故事</font>
 
 <font face="黑体" size=3>
 我们一起画画，我发现她画得很仔细，她会很认真的按照画板上面提供的颜色绘制。后来她告诉我，她并不是非常喜欢画画，而且相比棒球来讲，更喜欢棒球。但是让我感动的是：她会坚持的把两幅画画完，绝对不会做事做到一半就不去坚持，这个点让我很感动！
@@ -72,7 +72,5 @@ image: "assets/images/300.jpg"
 
 
 
-
-#### References
  
 <font face="黑体" color=grey size=3>资料来源: 跳跳糖公益 </font>
