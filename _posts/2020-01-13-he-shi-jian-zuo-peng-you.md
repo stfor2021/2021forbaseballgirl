@@ -16,7 +16,7 @@ image: "assets/images/300.jpg"
  
 > 我是彝族，我总是眯着眼睛笑，干活麻利，平时很细心的关注队员需求，认真帮助他人。</font >
 
-<img style="width:500px;height:333px" src="https://tva1.sinaimg.cn/large/008eGmZEly1goio2ejnt2j30k00dc4qp.jpg" alt="海来阿呷" aligh=center />
+> <img style="width:500px;height:333px" src="https://tva1.sinaimg.cn/large/008eGmZEly1goio2ejnt2j30k00dc4qp.jpg" alt="海来阿呷" aligh=center />
 
 
 *****
@@ -64,12 +64,11 @@ image: "assets/images/300.jpg"
 
 ### 小狮子的故事
 
-<img style="width:500px;height:333px" src="https://tva1.sinaimg.cn/large/008eGmZEly1goioatpcscj31400u0u0z.jpg" alt="海来阿呷" aligh=center />
+> <img style="width:500px;height:333px" src="https://tva1.sinaimg.cn/large/008eGmZEly1goioatpcscj31400u0u0z.jpg" alt="海来阿呷" aligh=center />
 
-<font face="黑体" color=green size=3>来自神秘小姐姐记录的海来阿呷的小故事</font>
-
-* <font face="黑体" size=3>我们一起画画，我发现她画得很仔细，她会很认真的按照画板上面提供的颜色绘制。后来她告诉我，她并不是非常喜欢画画，而且相比棒球来讲，更喜欢棒球。但是让我感动的是：她会坚持的把两幅画画完，绝对不会做事做到一半就不去坚持，这个点让我很感动！ </font>
-* <font face="黑体" size=3>我们跑出去玩儿游戏。她很有人缘，刚跑出去就被小伙伴们捉到，说去找皮筋。这让我有机会跟着她一起进了她的宿舍。宿舍里有整齐的小床，上面还有叠得非常整齐的小被子。我看到她们的宿舍非常整齐，就问被子是不是她们自己叠的，她说都是她们自己叠的。她会很整齐地把皮筋收好，放在她的柜子里，孩子们非常的有规矩，都会整理自己的内务。</font>
+* <font face="黑体" color=green size=3>来自神秘小姐姐记录的海来阿呷的小故事</font>
+  * <font face="黑体" size=3>我们一起画画，我发现她画得很仔细，她会很认真的按照画板上面提供的颜色绘制。后来她告诉我，她并不是非常喜欢画画，而且相比棒球来讲，更喜欢棒球。但是让我感动的是：她会坚持的把两幅画画完，绝对不会做事做到一半就不去坚持，这个点让我很感动！ </font>
+  * <font face="黑体" size=3>我们跑出去玩儿游戏。她很有人缘，刚跑出去就被小伙伴们捉到，说去找皮筋。这让我有机会跟着她一起进了她的宿舍。宿舍里有整齐的小床，上面还有叠得非常整齐的小被子。我看到她们的宿舍非常整齐，就问被子是不是她们自己叠的，她说都是她们自己叠的。她会很整齐地把皮筋收好，放在她的柜子里，孩子们非常的有规矩，都会整理自己的内务。</font>
 
 *****
 
