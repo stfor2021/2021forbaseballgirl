@@ -22,7 +22,7 @@ image: "assets/images/201.jpg"
 
 <font face="微软雅黑" color=green size=3>这里有一部纪录片《棒！少年》，讲的就是强棒基地和孩子们的故事。</font>
 
-<img style="width:500px;height:374px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1gojh0sher8j212i0gtdqu.jpg" alt="海来阿呷" aligh=center />
+<img style="width:500px;height:218px" src="https://tva1.sinaimg.cn/large/e6c9d24ely1gojh0sher8j212i0gtdqu.jpg" alt="棒！少年" aligh=center />
 
 <font face="微软雅黑" color=green size=3>剧情简介</font>
   
