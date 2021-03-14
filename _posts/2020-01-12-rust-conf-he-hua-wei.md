@@ -57,7 +57,6 @@ image: "assets/images/400.jpg"
 
 
 * [<font face="微软雅黑" color=grey size=3>百度百科</font>](https://baike.baidu.com/item/%E6%A3%92%E7%90%83%E5%8F%91%E5%B1%95%E5%8F%B2/13020240?fr=aladdin)
-
 * [<font face="微软雅黑" color=grey size=3>棒球为何是美国国球？带你了解美国棒球文化</font>](https://www.sohu.com/a/241513072_495652)
 
 
